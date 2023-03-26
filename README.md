@@ -9,7 +9,7 @@ All the course materials are from the official website of Professor Hung-Yi Lee'
 |                              Num                               |     Public      |      Private       |  Kaggle Public  |  Kaggle Private  |
 |:--------------------------------------------------------------:|:---------------:|:------------------:|:---------------:|:----------------:|
 |  [HW1](https://www.kaggle.com/competitions/ml2023spring-hw1/)  | Boss (59 / 969) | Strong (121 / 969) | 0.79660         |  0.83788         |
-|  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742) | Strong (23 / 742)  | 0.84402         |  0.84337         |
+|  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742) | Boss (23 / 742)    | 0.84402         |  0.84337         |
 |  [HW3](https://www.kaggle.com/competitions/ml2023spring-hw3/)  |                 |                    |                 |                  |
 |  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    |                 |                    |                 |                  |
 |  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1)                   |                 |                    |                 |                  |
