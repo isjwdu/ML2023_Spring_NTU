@@ -6,16 +6,16 @@ All the course materials are from the official website of Professor Hung-Yi Lee'
 
 ### Kaggle Ranking
 
-|                              Num                               |     Public      |      Private       |  Scores(Pub/Pri)  |
-|:--------------------------------------------------------------:|:---------------:|:------------------:|:-----------------:|
-|  [HW1](https://www.kaggle.com/competitions/ml2023spring-hw1/)  | Boss (59 / 969) | Strong (121 / 969) | 0.79660 / 0.83788 |
-|  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742) | Strong (23 / 742)  | 0.84402 / 0.84337 |
-|  [HW3](https://www.kaggle.com/competitions/ml2023spring-hw3/)  |                 |                    |                   |
-|  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    |                 |                    |                   |
-|  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1)                   |                 |                    |                   |
-|  [HW6](https://www.kaggle.com/competitions/ml2023spring-hw6/)  |                 |                    |                   |
-|  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  |                 |                    |                   |
-|  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  |                 |                    |                   |
-|  [HW9](https://www.kaggle.com/competitions/ml2023spring-hw9/)  |                 |                    |                   |
-| [HW10](https://www.kaggle.com/competitions/ml2023spring-hw10/) |                 |                    |                   |
-| [HW11](https://www.kaggle.com/competitions/ml2023spring-hw11/) |                 |                    |                   |
+|                              Num                               |     Public      |      Private       |  Kaggle Public  |  Kaggle Private  |
+|:--------------------------------------------------------------:|:---------------:|:------------------:|:---------------:|:----------------:|
+|  [HW1](https://www.kaggle.com/competitions/ml2023spring-hw1/)  | Boss (59 / 969) | Strong (121 / 969) | 0.79660         |  0.83788         |
+|  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742) | Strong (23 / 742)  | 0.84402         |  0.84337         |
+|  [HW3](https://www.kaggle.com/competitions/ml2023spring-hw3/)  |                 |                    |                 |                  |
+|  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    |                 |                    |                 |                  |
+|  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1)                   |                 |                    |                 |                  |
+|  [HW6](https://www.kaggle.com/competitions/ml2023spring-hw6/)  |                 |                    |                 |                  |
+|  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  |                 |                    |                 |                  |
+|  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  |                 |                    |                 |                  |
+|  [HW9](https://www.kaggle.com/competitions/ml2023spring-hw9/)  |                 |                    |                 |                  |
+| [HW10](https://www.kaggle.com/competitions/ml2023spring-hw10/) |                 |                    |                 |                  |
+| [HW11](https://www.kaggle.com/competitions/ml2023spring-hw11/) |                 |                    |                 |                  |
