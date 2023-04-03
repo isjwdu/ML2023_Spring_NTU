@@ -12,8 +12,8 @@ All the course materials are from the official website of Professor Hung-Yi Lee'
 |  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742) | Boss (23 / 742)    | 0.84402         |  0.84337         ||
 |  [HW3](https://www.kaggle.com/competitions/ml2023spring-hw3/)  | Boss (81 / 654) | Boss (57 / 650)    | 0.88266         |  0.89066         ||
 |  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    |                 |                    |                 |                  ||
-|  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1/description)       |                 |                    |                 |                  ||
-|  [HW6](https://www.kaggle.com/competitions/ml2023spring-hw6/)  |                 |                    |                 |                  ||
+|  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1/description/)      |                 |                    |                 |                  ||
+|  [HW6](https://ml.ee.ntu.edu.tw/homeworks/2/description/)      |                 |                    |                 |                  ||
 |  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  |                 |                    |                 |                  ||
 |  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  |                 |                    |                 |                  ||
 |  [HW9](https://www.kaggle.com/competitions/ml2023spring-hw9/)  |                 |                    |                 |                  ||
