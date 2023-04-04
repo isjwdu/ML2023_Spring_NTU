@@ -579,7 +579,7 @@ def parse_args():
     config = {
         "data_dir": "./Dataset",
         "model_path": "./model.ckpt",
-        "output_path": "./output.csv",
+        "output_path": "./output_with_SAP.csv",
     }
 
     return config
