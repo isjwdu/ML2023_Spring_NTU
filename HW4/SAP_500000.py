@@ -243,7 +243,7 @@ def get_dataloader(data_dir, batch_size, n_workers):
 """
 
 class Classifier(nn.Module):
-    def __init__(self, d_model=512, n_spks=600, dropout=0.5):
+    def __init__(self, d_model=512, n_spks=600, dropout=0.2):
         super().__init__()
         # Project the dimension of features from that of input into d_model.
         self.prenet = nn.Linear(40, d_model)
