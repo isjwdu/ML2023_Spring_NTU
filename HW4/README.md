@@ -12,4 +12,4 @@ python hw4_with_SAPooling.py
 python output_1.py
 python ensemble.py
 ```
-Different PCs perhaps have different results. Please change the `scores` in ensemble.py base on your KAGGLE PUBLIC SCORES, otherwise you may not be able to reproduce my results exactly.
+Different PCs perhaps have different results. Please change the `scores` list in ensemble.py base on your KAGGLE PUBLIC SCORES, otherwise you may not be able to reproduce my results exactly.
