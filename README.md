@@ -6,16 +6,16 @@ All the course materials are from the official website of Professor Hung-Yi Lee'
 
 ### Kaggle Ranking
 
-|                              Num                               |     Public       |      Private       |  Kaggle/JudgeBoi Public  |  Kaggle/JudgeBoi Private  | Score |
-|:--------------------------------------------------------------:|:----------------:|:------------------:|:------------------------:|:-------------------------:|:-----:|
-|  [HW1](https://www.kaggle.com/competitions/ml2023spring-hw1/)  | Boss (59 / 969)  | Strong (121 / 969) | 0.79660                 |  0.83788                  |  9/10 |
-|  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742)  | Boss (23 / 742)    | 0.84402                 |  0.84337                  ||
-|  [HW3](https://www.kaggle.com/competitions/ml2023spring-hw3/)  | Boss (81 / 654)  | Boss (57 / 650)    | 0.88266                 |  0.89066                  ||
-|  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    | Boss (212 / 617) | Boss (218 / 617)   | 0.95350                 |  0.95525                  ||
-|  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1/description/)      | Strong (67 / 478)| Strong (89 / 478)  | 27.33                   |  26.53                    ||
-|  [HW6](https://ml.ee.ntu.edu.tw/homeworks/2/description/)      |                  |                    |                         |                           ||
-|  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  |                  |                    |                         |                           ||
-|  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  |                  |                    |                         |                           ||
-|  [HW9](https://www.kaggle.com/competitions/ml2023spring-hw9/)  |                  |                    |                         |                           ||
-| [HW10](https://www.kaggle.com/competitions/ml2023spring-hw10/) |                  |                    |                         |                           ||
-| [HW11](https://www.kaggle.com/competitions/ml2023spring-hw11/) |                  |                    |                         |                           ||
+|                              Num                               |     Public       |      Private       |  Public Score |  Private Score | Course Score |
+|:--------------------------------------------------------------:|:----------------:|:------------------:|:-------------:|:--------------:|:------------:|
+|  [HW1](https://www.kaggle.com/competitions/ml2023spring-hw1/)  | Boss (59 / 969)  | Strong (121 / 969) | 0.79660       |  0.83788       |  9/10        |
+|  [HW2](https://www.kaggle.com/competitions/ml2023spring-hw2/)  | Boss (18 / 742)  | Boss (23 / 742)    | 0.84402       |  0.84337       ||
+|  [HW3](https://www.kaggle.com/competitions/ml2023spring-hw3/)  | Boss (81 / 654)  | Boss (57 / 650)    | 0.88266       |  0.89066       ||
+|  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    | Boss (212 / 617) | Boss (218 / 617)   | 0.95350       |  0.95525       ||
+|  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1/description/)      | Strong (67 / 478)| Strong (89 / 478)  | 27.33         |  26.53         ||
+|  [HW6](https://ml.ee.ntu.edu.tw/homeworks/2/description/)      |                  |                    |               |                ||
+|  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  |                  |                    |               |                ||
+|  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  |                  |                    |               |                ||
+|  [HW9](https://www.kaggle.com/competitions/ml2023spring-hw9/)  |                  |                    |               |                ||
+| [HW10](https://www.kaggle.com/competitions/ml2023spring-hw10/) |                  |                    |               |                ||
+| [HW11](https://www.kaggle.com/competitions/ml2023spring-hw11/) |                  |                    |               |                ||
