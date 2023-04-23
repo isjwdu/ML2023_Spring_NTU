@@ -5,14 +5,12 @@ from tqdm import tqdm
 def pad4(i):
     return "0"*(4-len(str(i)))+str(i)
 
-df1 = pd.read_csv('./result (1).csv')
-df2 = pd.read_csv('./result (2).csv')
-df3 = pd.read_csv('./result (3).csv')
-df4 = pd.read_csv('./result (4).csv')
-df5 = pd.read_csv('./result (5).csv')
+df1 = pd.read_csv('./QA_model.csv')
+df2 = pd.read_csv('./roberta_model.csv')
+df3 = pd.read_csv('./macbert_model.csv')
 
-dfs = [df1, df2, df3,df4 ,df5]
-scores = [0.80115, 0.81271, 0.81725,0.79455, 0.81895]   
+dfs = [df1, df2, df3]
+scores = [0.79738, 0.83427, 0.83314]   
 results = np.empty(3524, dtype=object)
 
 # reference https://blog.csdn.net/chiyukunpeng/article/details/107980934
@@ -35,3 +33,5 @@ df = pd.DataFrame()
 df["Id"] = [i for i in range(0, len(results))]
 df['Answer'] = results
 df.to_csv('ensemble.csv', sep=',', index=False)
+
+
