@@ -18,4 +18,3 @@ All the course materials are from the official website of Professor Hung-Yi Lee'
 |  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  | Boss (17 / 574)  | Boss (14 / 574)    | 0.85790        |  0.86224       ||
 |  [HW9](https://www.gradescope.com/)                            | None             | None               | None           |  None          |  9.6/10      |
 | [HW10](https://www.kaggle.com/competitions/ml2023spring-hw10/) |                  |                    |                |                ||
-| [HW11](https://www.kaggle.com/competitions/ml2023spring-hw11/) |                  |                    |                |                ||
