@@ -14,7 +14,7 @@ All the course materials are from the official website of Professor Hung-Yi Lee'
 |  [HW4](https://www.kaggle.com/competitions/ml2023springhw4)    | Boss (212 / 617) | Boss (218 / 617)   | 0.95350        |  0.95525       |  10/10       |
 |  [HW5](https://ml.ee.ntu.edu.tw/homeworks/1/description/)      | Strong (67 / 478)| Strong (89 / 478)  | 27.33          |  26.53         |  9/10        |
 |  [HW6](https://ml.ee.ntu.edu.tw/homeworks/2/description/)      | Boss (200 / 502) | None               | 0.702 / 8826.08|  None          |  9.5/10      |
-|  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  | Boss (46 / 612)  | Boss (15 / 612)    | 0.84506        |  0.85811       ||
-|  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  | Boss (17 / 574)  | Boss (14 / 574)    | 0.85790        |  0.86224       ||
+|  [HW7](https://www.kaggle.com/competitions/ml2023spring-hw7/)  | Boss (46 / 612)  | Boss (15 / 612)    | 0.84506        |  0.85811       |  9.5/10      |
+|  [HW8](https://www.kaggle.com/competitions/ml2023spring-hw8/)  | Boss (17 / 574)  | Boss (14 / 574)    | 0.85790        |  0.86224       |  10/10       |
 |  [HW9](https://www.gradescope.com/)                            | None             | None               | None           |  None          |  9.6/10      |
-| [HW10](https://www.kaggle.com/competitions/ml2023spring-hw10/) | Boss (157 / 541) | Strong (262 / 541) | 0.07           |  0.13          ||
+| [HW10](https://ml.ee.ntu.edu.tw/homeworks/3/description)       | Boss (157 / 541) | Strong (262 / 541) | 0.07           |  0.13          |  9.5/10      |
