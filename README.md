@@ -4,7 +4,7 @@ This is a GitHub repository used to record [Prof. Hung-Yi Lee](https://speech.ee
 
 All the course materials are from the official website of Professor Hung-Yi Lee's [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) Course.
 
-### Kaggle Ranking
+### Ranking
 
 |                              Num                               |     Public       |      Private       |  Public Score  |  Private Score | Course Score |
 |:--------------------------------------------------------------:|:----------------:|:------------------:|:--------------:|:--------------:|:------------:|
