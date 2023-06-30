@@ -2,7 +2,7 @@
 
 This is a GitHub repository used to record [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) Machine Learning Course(2023 Spring), which contains the Kaggle rankings and scores for this semester, and the scores obtained for the assignments. 
 
-All the course materials are from the official website of Professor Hung-Yi Lee's [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) Course.
+All the course materials are from the official website of Prof. Hung-Yi Lee's [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) Course.
 
 ### Ranking
 
